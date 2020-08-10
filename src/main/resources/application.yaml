@@ -1,0 +1,7 @@
+dna:
+  prefix: AAAAAAAAAAA
+  files:
+    - path: "classpath:dna/dna1.txt"
+      encoding: UTF-8
+    - path: "classpath:dna/dna2.txt"
+      encoding: UTF-8
